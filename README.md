@@ -25,12 +25,4 @@ With the help of the spoonacular API, users of the Tasty Tips Android app can ac
 * [Spoonacular Api](https://spoonacular.com/) - Used to Get Food Recipies 
 ## Feedback
 
-If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:huzaifajaved474@gmail.com" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
-
-
-
-
-
-</br></br>
-
-### Built With ♥ And :coffee: By [`Vishal Makhijani`](https://github.com/vishalmakhiijani/vishalmakhiijani/blob/main/README.md) In [![](https://wakatime.com/badge/user/3ca47b62-657a-46e7-942b-50ea09e46467/project/2c57e499-909d-4a96-a76d-b5aa68a900e7.svg)](https://wakatime.com/badge/user/3ca47b62-657a-46e7-942b-50ea09e46467/project/2c57e499-909d-4a96-a76d-b5aa68a900e7)
+If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:huzaifajaved474@gmail.com" target="blank"><img src="https://img.shields.io/badge/huzaifajaved474-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Huzaifa Siddiqui" /></a> </p>
