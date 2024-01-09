@@ -17,17 +17,7 @@ With the help of the spoonacular API, users of the Tasty Tips Android app can ac
 - Filter recipes by type of meal
 - Login to your account from any device
 - Completely free and ad-free
-
-
-
-## Installation
-
-
-Clone the git repo:
-
-```
-https://github.com/vishalmakhiijani/food-recipe-android-app.git
-```
+- 
     
 ### Built With
 * [Android Studio](https://developer.android.com/studio/index.html) - The IDE used for development on Android Environment
@@ -35,7 +25,7 @@ https://github.com/vishalmakhiijani/food-recipe-android-app.git
 * [Spoonacular Api](https://spoonacular.com/) - Used to Get Food Recipies 
 ## Feedback
 
-If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:vishalmakhijani@pm.me" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
+If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:huzaifajaved474@gmail.com" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
 
 
 
